@@ -1,2 +1,2 @@
-# HR data visualization
-An ETL pipeline project using Python
+# HR-data-visualization
+HR analytics visualization using Python
